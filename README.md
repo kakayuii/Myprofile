@@ -1,7 +1,7 @@
 # My Projects Showcase 🎉
 
 ## Project 1: Repayment function for credit card in PINGAN bank
-![Project Screenshot](assets/repayment.JPG)  
+<img src="assets/repayment.JPG" width="200" height="200" />
 Description: A brief description of your project, highlighting its features and technologies used.
 
 ## Project 2: Bill function for credit card in PINGAN bank
